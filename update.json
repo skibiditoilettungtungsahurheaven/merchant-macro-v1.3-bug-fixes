@@ -1,0 +1,23 @@
+{
+  "pc": {
+    "version": "1.4",
+    "file": "(Windows) Merchant Macro v1.4 (TURKEY DETECTION).zip",
+    "sha256": "868d014d60cd32b90b20ffc55e12592cc7e776ac68036bf446ac7484e89a5ef1",
+    "size": 379670
+  },
+  "mac": {
+    "version": "1.4",
+    "file": "(Mac) Merchant Macro v1.4 (TURKEY DETECTION).zip",
+    "sha256": "48fdf02f4f888c9296306f572b7f271e955d65fda0da4032a89287966c9b5e34",
+    "size": 389899
+  },
+  "android": {
+    "version": "1.4",
+    "code": 23,
+    "accessibility": {
+      "file": "(Android) Merchant Macro v1.4 (TURKEY DETECTION).apk",
+      "sha256": "869dc0d2f74e4a8eb848a534287bf4e1f2986e9f33805570b88f987dd55e2d3d",
+      "size": 1136615
+    }
+  }
+}
